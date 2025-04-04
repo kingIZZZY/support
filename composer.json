@@ -21,11 +21,11 @@
     ],
     "require": {
         "php": "^8.2",
-        "hyperf/context": "~3.2.0",
-        "hyperf/support": "~3.2.0",
-        "hyperf/stringable": "~3.2.0",
-        "hyperf/tappable": "~3.2.0",
-        "hyperf/collection": "~3.2.0",
+        "hyperf/context": "dev-3.2",
+        "hyperf/support": "dev-3.2",
+        "hyperf/stringable": "dev-3.2",
+        "hyperf/tappable": "dev-3.2",
+        "hyperf/collection": "dev-3.2",
         "nesbot/carbon": "^2.72.6"
     },
     "autoload": {
